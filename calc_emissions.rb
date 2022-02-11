@@ -8,15 +8,6 @@ if ARGV.size != 2
 end
 
 COLLECTION_NAME = ARGV[0]
-daily_emission = case COLLECTION_NAME
-             when 'cursed_mikes'
-               1
-             when 'longharbor_nft'
-               2.5
-             else
-               fail 'You must specify longharbor_nft or cursed_mikes to set the appropriate token daily emission'
-             end
-
 CURSED_MIKES_MINT = DateTime.parse('2021-12-09T17:00:00.000Z')
 
 def emission_total(acquired_at)
@@ -26,7 +17,7 @@ def emission_total(acquired_at)
     # $CURSE drops in Feb. 2022 are 2x multiplied
     eligible_days * 2
   when 'longharbor_nft'
-    days_before_cursed_mikes_mint = (acquired_at - CURSED_MIKES_MINT).to_i
+    days_before_cursed_mikes_mint = (CURSED_MIKES_MINT - acquired_at).to_i
     # Days until the Cursed Mike mint only count for 1 $CURSE.
     # $CURSE drops in Feb. 2022 are 2x multiplied = 5 daily emission instead of 2.5.
     days_before_cursed_mikes_mint + ((eligible_days - days_before_cursed_mikes_mint) * 5)
