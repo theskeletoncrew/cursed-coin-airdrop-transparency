@@ -1,58 +1,58 @@
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -2; eligible_days: 61; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -2; eligible_days: 61; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -4; eligible_days: 59; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -2; eligible_days: 61; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -2; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -5; eligible_days: 59; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -2; eligible_days: 61; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -9; eligible_days: 54; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -4; eligible_days: 59; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -9; eligible_days: 54; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -5; eligible_days: 58; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -4; eligible_days: 59; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: 0; eligible_days: 64; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -2; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 63; eligible_days-days_before_cursed_mikes_mint: 64; 5*ed: 320
-days before: -1; eligible_days: 62; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
-days before: -4; eligible_days: 59; eligible_days-days_before_cursed_mikes_mint: 63; 5*ed: 315
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 121 H8pr9WzH22a5NRaVppVVx9sw5SzgdsZUFvjDKANYyXjf
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 zenom3SnXK6k2UJm73jRQ1n8U7KkLPrTypDatKjGxoL
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 123 87kEqjQQ7S97WAzbbtkDxF5DM7JakX8GqJ3grPkmPnGG
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 121 CskMFh2MoEETSwvgqD8Lu3poyRB4fwBCCjAi4eYcRgHy
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 6WkubxrGPgffYK4ccs4k8YG7R8oVcjp6C2ceRpS5LZDj
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 119 4UPrksAhtufcEyVkPLcobLYagJJUtGRxKFkr4GuASm48
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 HNbUn8bHcgWwV2C7uGBNQZtkuLCRjoC3GA3nRs78supn
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 121 CskMFh2MoEETSwvgqD8Lu3poyRB4fwBCCjAi4eYcRgHy
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 ATV6HMw1EZqkA5EPwkCHYSSZC53XGiCiGY2n5XE2HCQs
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 ATV6HMw1EZqkA5EPwkCHYSSZC53XGiCiGY2n5XE2HCQs
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 65G5VRZmZFyFkdXfkN2K7ufXf1cvGWFAZrSahn5JHwMq
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 126 4pzJGxABKNDTPJ9TWn4Zzq6seme6PCGkYXt2VQUbF12o
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 CFM69XYTfJk3ZA1YJDnqXzMSpm2eF4RV7pkNsUXcu9sf
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 GD1UpEaXGMqxHFM2wpuxPUZXJ8ijxVTQUUkLtwGcnLUc
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 DmfqiYK4S3uCKFKuo9kK4DNquW5M8L9DsBhSHw2ackYR
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 Cmv7tCK9UKvKmjqGpJjSTgRzahPQ4WokVLUfUdgAAbUo
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 dRsZAVQq5pcqg42AZbSiG2rM2UrGVExS9aQ9WReyNcK
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 CzBuPFMJQbPLw6k3B7z7KNBwMWfJZZKTFBYZLhYB27N1
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 Dyh3mtoYGFqDhcz429WYn7CYcF15qTJpAiDrK2WA96tL
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 8q9WRfyedNuFRAgsHcyu9KLwyYVfFU6Xqe2AqRmfdboB
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 EuTRnqeMChoXVeTnunQDKQPRHwKEXpgf6Zd673eViCef
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 123 CQUTdvx2e9xnsgabMvJ2CEnXFeZ54C5NqZjCtCgpfkKP
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 121 BetDtiagAf4HRqAf3muQHZtugTKoBsUYWUbeyYgMGkWr
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 114 HFPaT6WKk9SkwtYVZ5m5Sqw7ZbyehGu9GHjsctigm49S
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 dRsZAVQq5pcqg42AZbSiG2rM2UrGVExS9aQ9WReyNcK
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 119 G2DBzgc4kCQYbKfWJjePsFKeDWBkgrPAthj5JRLy1LRm
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 GpQijgCF4FhkUKHi7TvN7zJRJGwQQZxmwdrsrQRjWiwF
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 62eqfpVAUviWDxgs9a46D6zzCwc6ZrzkYDAres9MCbn4
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 114 HFPaT6WKk9SkwtYVZ5m5Sqw7ZbyehGu9GHjsctigm49S
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 2QpWokgNmq9UdseJEenS7WQ4bdZhnrQiLpYkoktqLdmP
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 3UFmscW19Jmds66SbYr39CpYrfcGjoFnbGHPmZXk8Z1w
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 CEVaqonnxgvHZGjSDF6FNd9djU2D7YLJda8aYkJZ4mL9
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 3UFmscW19Jmds66SbYr39CpYrfcGjoFnbGHPmZXk8Z1w
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 9DugFjCnUWsnqUs12AiLuGMYN8e67z1Dr6GGY5bKg1HY
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 118 DCHVAssYe2LtHkQV3V5ii9ApvHr3bZPcXc5fkzHtjEWE
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 BLRSwkRvKgbr9xozHkas8nxfoR7R97kfAi6kjyvxYDMe
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 Cyc13EoozWsKWeF9xbTwZWkYTeNcrB6VeyhYEpbe4dS4
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 GVqafNojYsV9auYiVovTkJHwAFrqsuCWuS4wh19wrC3d
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 119 3UZJmNjKJLDzWsdQKAESE1EbxsdLeLX8399v2DC9WcCU
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 EefJFXJaBjuuVPKMLapUdmfG5GdVxc28W4XACraYSXN1
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 124 7dxAbneFgcvDPSuYr5TJvL3QGWbzsFSWnnB7mzYzQUBx
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 Av3A8NGNrZ3r9ZmBcdJdGF4mBkVo1i41Dao7DZEUNwgh
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 126 4pzJGxABKNDTPJ9TWn4Zzq6seme6PCGkYXt2VQUbF12o
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 4FaDkthWZZhzCLmzBpQvwgxotUgWnPZRPZiPxmBxm5Fg
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 GpQijgCF4FhkUKHi7TvN7zJRJGwQQZxmwdrsrQRjWiwF
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 127 5VtmWrGVXPoeBVUshd1HStqD3egcpxeifMszqkKJCxEd
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 122 3UFmscW19Jmds66SbYr39CpYrfcGjoFnbGHPmZXk8Z1w
+spl-token transfer --fund-recipient --allow-unfunded-recipient 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv 119 G2DBzgc4kCQYbKfWJjePsFKeDWBkgrPAthj5JRLy1LRm
