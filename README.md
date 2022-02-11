@@ -1,4 +1,4 @@
-# cursed-token-drops
+# cursed-coin-airdrop-transparency
 🧪 Cursed Coin token airdrop transparency.
 
 ![cursed coin](https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd/logo.png)
