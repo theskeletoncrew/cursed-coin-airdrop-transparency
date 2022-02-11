@@ -9,6 +9,7 @@ end
 
 COLLECTION_NAME = ARGV[0]
 CURSED_MIKES_MINT = DateTime.parse('2022-01-27T17:00:00.000Z')
+CURSED_WALLET = 'CursEdTaHUfDa7WevxE5UvF9TzTm4cSCihtdqQJ6EUun'
 
 def emission_total(acquired_at)
   eligible_days = (DateTime.now - acquired_at).to_i
@@ -37,10 +38,10 @@ results = File.read(ARGV[1]).lines.map(&:chomp).map { |line|
       errors << "No timestamp in line: #{line}"
       next
     end
-    if j['transaction'] && j['transaction']['owner']
+    if j['transaction'] && j['transaction']['owner'] && !CURSED_WALLET.eql?(j['transaction']['owner'])
       owner = j['transaction']['owner']
     else
-      errors << "No timestamp in line: #{line}"
+      errors << "No timestamp in line: #{line}" if !CURSED_WALLET.eql?(j['transaction']['owner'])
       next
     end
     # Deductions for being listing will be added subsequently.
