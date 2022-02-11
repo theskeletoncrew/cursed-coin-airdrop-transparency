@@ -27,7 +27,7 @@ def emission_total(acquired_at)
 end
 
 errors = []
-token_account = "9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv"
+token_account = "3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd"
 results = File.read(ARGV[1]).lines.map(&:chomp).map { |line|
   begin
     j = JSON.parse(line)
