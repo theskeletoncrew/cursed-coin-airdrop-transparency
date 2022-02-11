@@ -8,7 +8,7 @@ if ARGV.size != 2
 end
 
 COLLECTION_NAME = ARGV[0]
-CURSED_MIKES_MINT = DateTime.parse('2021-12-09T17:00:00.000Z')
+CURSED_MIKES_MINT = DateTime.parse('2022-01-27T17:00:00.000Z')
 
 def emission_total(acquired_at)
   eligible_days = (DateTime.now - acquired_at).to_i
