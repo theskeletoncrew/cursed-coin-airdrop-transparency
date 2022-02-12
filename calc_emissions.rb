@@ -51,5 +51,5 @@ results = File.read(ARGV[1]).lines.map(&:chomp).map { |line|
     errors << e.to_s
   end
 }.compact
-File.puts('errors.txt', errors.join("\n")) unless errors.empty?
+File.write('errors.txt', errors.join("\n")) unless errors.empty?
 puts results
