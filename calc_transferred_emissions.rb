@@ -12,6 +12,8 @@ COLLECTION_NAME = ARGV[0]
 snapshot = JSON.parse(File.read(ARGV[1]))
 CURSED_MIKES_MINT = DateTime.parse('2022-01-27T17:00:00.000Z')
 CURSED_WALLET = 'CursEdTaHUfDa7WevxE5UvF9TzTm4cSCihtdqQJ6EUun'
+MAGIC_EDEN_V2_ADDRESS = 'M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K'
+EXCHANGE_ART_ADDRESS = 'AmK5g2XcyptVLCFESBCJqoSfwV3znGoVYQnqEnaAZKWn'
 
 def emission_total(acquired_at)
   eligible_days = (AIRDROP_DATE - acquired_at).to_i
@@ -36,8 +38,13 @@ results = File.read(ARGV[2]).lines.map(&:chomp).map { |line|
     j = JSON.parse(line)
     s = snapshot.find { |s| s['mint_account'].eql?(j['mint']) }
     fail "Mint address #{j['mint'].to_json} was not found in snapshot." if s.nil?
-    # TODO: Last only includes mint tx. For transfers that were not as simple
-    tx = j['transactions'].size - 1
+    tx = j['transactions'].index { |tx|
+      tx['instructions'].any? { |i| ('spl-associated-token-account'.eql?(i['programName']) \
+                                && 'create-associated-token-account'.eql?(i['parsed_type'])) \
+                                || ('spl-token'.eql?(i['programName']) \
+                                    && 'initialize-token-account'.eql?(i['parsed_type']))
+      }
+    } || j['transactions'].size - 1
     acquired_at = DateTime.parse(j['transactions'][tx]['timestamp'])
     if j['transactions']
       owner = s['owner_wallet']
