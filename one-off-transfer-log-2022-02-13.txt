@@ -1,0 +1,12 @@
+$ spl-token transfer --fund-recipient --allow-unfunded-recipient 3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd 35 7tpRhJGKejjeqPHDDJWvZADTLS5wSWghC1m5bMANv1BM
+Transfer 35 tokens
+  Sender: 9p7JdpJREQiCtYMvSLxJ9zDsi2161wQwu3pzx7vimpyv
+  Recipient: 7tpRhJGKejjeqPHDDJWvZADTLS5wSWghC1m5bMANv1BM
+  Recipient associated token account: 2yeuM6dAXpaZPYKh3U32wMkuZ6kbER7WDtpKwFjneLF6
+
+Signature: VNtVWxhYXqSBi9kMH6rHKQkXjajWQWRLRTaokcfc3AevsdKzAFqv6UKRHy1zY238L5ZRMnPSTw3xGnTqw6uLsAV
+
+$    
+$ 
+$ spl-token balance 3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd                                                         
+50101
