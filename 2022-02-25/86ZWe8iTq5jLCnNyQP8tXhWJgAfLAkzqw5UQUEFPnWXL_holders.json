@@ -2418,6 +2418,12 @@
     "owner_wallet": "1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix"
   },
   {
+    "associated_token_address": "58BkUpqxfrsZqbf7MTALwHWjQZvBQoNyteWG5yTsbXo5",
+    "metadata_account": "HXgVJc3bmuhAsbbw8ACnk6JXf5LJ9Dqgx9Te977ywzWB",
+    "mint_account": "6W8ZNssgMikFKE4vuaNgFAYmVQqp62QWWVLpR1r64CfM",
+    "owner_wallet": "7zjmGaaiKCmopJQ9UQjGKhLKYL3cveL6kCkXawCvFdJE"
+  },
+  {
     "associated_token_address": "9JeZ1YbUrES5UiEQCSqDsYoqpbViL4vquzVMS5bNqvGW",
     "metadata_account": "5aC4GXkRojbPuRjvMycgCzG8Sn2tTSAJioqodk7swiTi",
     "mint_account": "6XLP93XjKxm7mMHtESshDWbkHuPwmH84uLgLJSPMPR9G",
@@ -5148,6 +5154,12 @@
     "owner_wallet": "4nn6MmxYyYHzuWBSJbKFz4K3X5c9W6xhLLsXgpfrE8gA"
   },
   {
+    "associated_token_address": "2HsA4TasCBWAmRqWTtZcXKvoWRJJgVzbgjBLGAsKx3Z9",
+    "metadata_account": "7SBXeqmNS4GzWw8A6d2PyPvubYaqgpLMpdgVBXMJKUfw",
+    "mint_account": "Bv75PxfKzbSdLQw72mGfo5caRZQZxypAWpNAAiP816Eb",
+    "owner_wallet": "66Xz459nAxyrjRa9xQXnhr5kNsDxX8MPg3syeXFk3K5j"
+  },
+  {
     "associated_token_address": "EY35VM8xCEJeDfc3vhLs14cfEokSf7VPNndr2svyV2uh",
     "metadata_account": "HE5eJtVXT94q9Tp29wiqwXHKeRVPRKSCPcbcprcduUCW",
     "mint_account": "BvKztGY1bxkDHoLC9P2xYtHsGjgu9nMfz3cCCxc6PFBZ",
@@ -6478,6 +6490,12 @@
     "metadata_account": "E5xfy5iatrg6M8fZitrjaXtgrUaRjDdEMX4Nf2BL9Syq",
     "mint_account": "ESyS8z87gjrPwyxwWHTYVVtRrUmFxS2LnuBDSP8qycPf",
     "owner_wallet": "Dbf15BxewajcJJHXGnnVUYYQyoph6tsnuYFAWke53Rbk"
+  },
+  {
+    "associated_token_address": "2suESS5cSCRdRH46dnAKzxFkvG7YAfyFhwCXf86bS9Nd",
+    "metadata_account": "6TukdeHevyjXDEhfN2V14VmMFFJa3qf6enWAtqPAsuYd",
+    "mint_account": "ETH74UunRwewkGspMbV3AEFZRVz2q6T9kLtHqfWUwxnn",
+    "owner_wallet": "Cf6ccQZezeAtCYq7gJe5HadAP7NX2Mww6FopqpH3bfGq"
   },
   {
     "associated_token_address": "51uVFqpviG3hGaFxCMaAacCDKZXWi3z6pTbs48Wbzwm7",
