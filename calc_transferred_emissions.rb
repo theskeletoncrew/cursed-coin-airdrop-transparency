@@ -45,6 +45,7 @@ results = File.read(ARGV[2]).lines.map(&:chomp).map { |line|
                                     && 'initialize-token-account'.eql?(i['parsed_type']))
       }
     } || j['transactions'].size - 1
+    signature = j['transactions'][tx]['signature']
     acquired_at = DateTime.parse(j['transactions'][tx]['timestamp'])
     if j['transactions']
       owner = s['owner_wallet']
@@ -61,6 +62,7 @@ results = File.read(ARGV[2]).lines.map(&:chomp).map { |line|
       mint: j['mint'],
       token_account: token_account,
       owner: owner,
+      signature: signature,
     })
   rescue => e
     errors << e.to_s
